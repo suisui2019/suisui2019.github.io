@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Java碎碎念的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 22 Nov 2019 15:34:05 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2019 15:35:05 +0800</lastBuildDate>
     
 	<atom:link href="https://suisui2019.github.io/tags/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spring Boot</title>
+      <link>https://suisui2019.github.io/tags/spring-boot/</link>
+      <pubDate>Fri, 22 Nov 2019 15:35:05 +0800</pubDate>
+      
+      <guid>https://suisui2019.github.io/tags/spring-boot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Security</title>
+      <link>https://suisui2019.github.io/tags/spring-security/</link>
+      <pubDate>Fri, 22 Nov 2019 15:35:05 +0800</pubDate>
+      
+      <guid>https://suisui2019.github.io/tags/spring-security/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MyBatis</title>
