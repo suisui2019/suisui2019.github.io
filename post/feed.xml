@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo PacMan Theme Demo</title>
+    <title>Posts on Java碎碎念的博客</title>
     <link>https://suisui2019.github.io/post/</link>
-    <description>Recent content in Posts on Hugo PacMan Theme Demo</description>
+    <description>Recent content in Posts on Java碎碎念的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Mar 2016 12:13:19 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2019 15:34:05 +0800</lastBuildDate>
     
 	<atom:link href="https://suisui2019.github.io/post/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>first</title>
-      <link>https://suisui2019.github.io/post/first/</link>
-      <pubDate>Sun, 20 Mar 2016 12:13:19 +0800</pubDate>
+      <title>一分钟带你了解下MyBatis的动态SQL！</title>
+      <link>https://suisui2019.github.io/post/article-mybatis-sql/</link>
+      <pubDate>Fri, 22 Nov 2019 15:34:05 +0800</pubDate>
       
-      <guid>https://suisui2019.github.io/post/first/</guid>
-      <description>主题概况 Balalalalala&amp;hellip; Balalalalala&amp;hellip; 安装指南 aaaaaaa bbbbbbb ccccccc 安装 bold 启用 print(&#39;hello world!&#39;) 更新 Blockquotes are very handy in email to emulate reply text. This line is part of the same quote. 配置指南 Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1 属性 说明 First ordered list item</description>
+      <guid>https://suisui2019.github.io/post/article-mybatis-sql/</guid>
+      <description>一分钟带你了解下MyBatis的动态SQL！ MyBatis的强大特性之一便是它的动态SQL，以前拼接的时候需要注意的空格、列表最后的逗号等，</description>
     </item>
     
     <item>
-      <title>hello hugo</title>
-      <link>https://suisui2019.github.io/post/hello-hugo/</link>
-      <pubDate>Sat, 20 Feb 2016 15:34:05 +0800</pubDate>
+      <title>第一篇文章</title>
+      <link>https://suisui2019.github.io/post/first/</link>
+      <pubDate>Fri, 22 Nov 2019 12:13:19 +0800</pubDate>
       
-      <guid>https://suisui2019.github.io/post/hello-hugo/</guid>
-      <description>Hello Hugo Balalala&amp;hellip; Balalala&amp;hellip; Balalala&amp;hellip;</description>
+      <guid>https://suisui2019.github.io/post/first/</guid>
+      <description>2019-11-22，第一篇文章发出了，记录下，哈哈哈哈！</description>
     </item>
     
   </channel>
